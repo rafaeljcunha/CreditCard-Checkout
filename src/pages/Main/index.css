@@ -1,0 +1,9 @@
+.class-cvv {
+  transform: rotateY(360deg);
+  transition-duration: 1s;
+}
+
+.class-front {
+  transform: rotateY(0deg);
+  transition-duration: 1s;
+}
