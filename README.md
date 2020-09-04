@@ -3,10 +3,10 @@
 Neste diretório contém um exemplo de como pode ser feita a aquisição de dados do cartão de crédito, com interação  e animação, tornando assim para o usuário, uma boa experiência ao realizar o cadastro do seu cartão de credito em algum checkout de pagamentos.
 
 ### Tecnologias utilizadas ###
-Javascript
-ReactJS
-Styled Components
-Ant Design
+* Javascript
+* ReactJS
+* Styled Components
+* Ant Design
 
 ### Como rodar o projeto ###
 Recomendo baixar o NodeJs em https://nodejs.org/en/ e Yarn em https://yarnpkg.com/
